@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# TuneLearn
 
-First, run the development server:
+A simple frontend project with smooth animations using Acertiny UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Website Snapshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d5d3c6e-f208-4f23-9e39-30a5520b7509" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee387c88-0d17-4b8b-95ea-b94d2d81425a" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ce10636-4aac-47d2-b580-3ac47226d5ea" />
 
-## Learn More
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30a41593-3e14-4f40-b5ad-9221661f5933" />
 
-To learn more about Next.js, take a look at the following resources:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/873850ca-4f6e-448e-ac6a-efe7cae5103e" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
